@@ -29,6 +29,6 @@ By clicking on the following [link](https://github.com/urllib3/urllib3/blob/mast
 <br />
 
 ## Sources:
-https://www.contributor-covenant.org/
-https://github.com/urllib3/urllib3/blob/master/README.rst
-https://github.com/urllib3/urllib3/blob/master/CODE_OF_CONDUCT.md
+- https://www.contributor-covenant.org/
+- https://github.com/urllib3/urllib3/blob/master/README.rst
+- https://github.com/urllib3/urllib3/blob/master/CODE_OF_CONDUCT.md
