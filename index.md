@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Creating and Maintaining a Welcoming and Inclusive Open Source Community
+## Entry 1
 
-You can use the [editor on GitHub](https://github.com/sshmuylovich/Weekly_Writing_Assignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+__INTRODUCTION:__
 
-### Markdown
+Community is one of three central themes that lay the foundation of Phillips Academy’s 2020-2021 school year. In an attempt to teach their students about the importance and responsibilities that accompany community, the Phillips Academy administration has invited speakers, led workshops, and reformatted their Empathy Balance and Inclusion course. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As I embark on my journey to explore the Open Source Movement, I find myself connecting (and implementing) lessons learned during Andover programming with my understanding of the Open Source Movement. After all, the Open Source Movement at its core is simply a larger community which ecompases an infinite number of smaller sub-communities (like Andover). 
 
-```markdown
-Syntax highlighted code block
+A software developer creates a project with the aim to solve a problem. The advantage of open source is the possibility of collaborative input from strangers who are interested in helping the developer improve their code. It is important to note, however, that the moment there is someone other than the developer working on the project, that project instantly transforms into a community. Most importantly, it becomes a community that other people can continue to join and it will forever remain a community that members can leave.
 
-# Header 1
-## Header 2
-### Header 3
+In order for the Open Software Movement to function, strangers must contribute to each others’ code. It is the open source software maintainers’ job to ensure that their project attracts and retains their contributors. This entry is the first in a series of posts where I will be both exploring and explaining the most common steps taken by project maintainers in order to ensure that the community they are responsible for is welcoming and inclusive. 
 
-- Bulleted
-- List
+<br />
 
-1. Numbered
-2. List
+__CODE OF CONDUCT:__
 
-**Bold** and _Italic_ and `Code` text
+A community thrives when both the maintainers and the participants have agreed on a clear set of expectations that focus on how they will engage with each other and the project material. In the Open Source Movement, this often manifests as a Code of Conduct.
 
-[Link](url) and ![Image](src)
-```
+Contributor Covenant has created a Code of Conduct which they encourage every open source maintainer to use. It provides many examples of what is acceptable and what is not. Furthermore, it provides clear definitions + parameters and explicitly mentions the consequences that will occur should the code of conduct be broken.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+It can be found by clicking on the following [link](https://www.contributor-covenant.org/).
 
-### Jekyll Themes
+urllib3 is “a powerful, _user-friendly_ HTTP client for Python.” It currently has 16 contributors and 7 maintainers and therefore serves as the perfect example for someone like myself, who is about to create an open source software library and contribute to the software libraries of others for the first time. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sshmuylovich/Weekly_Writing_Assignment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+By clicking on the following [link](https://github.com/urllib3/urllib3/blob/master/CODE_OF_CONDUCT.md), you can see how one of urllib3’s maintainers, Seth Michael Larson (GitHub username: sethmlarson), has implemented Contributor Covenant's code of conduct.
 
-### Support or Contact
+<br />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sources:
+https://www.contributor-covenant.org/
+https://github.com/urllib3/urllib3/blob/master/README.rst
+https://github.com/urllib3/urllib3/blob/master/CODE_OF_CONDUCT.md
